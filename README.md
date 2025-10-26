@@ -16,8 +16,7 @@ Early learners (ages 4–7) beginning to recognize English alphabets.
 
 ## 📽️ Demo Video
 
-[![Watch the Game Demo](https://youtu.be/q6rXyj6iEac)
-
+[![Watch the Game Demo](https://img.youtube.com/vi/q6rXyj6iEac/maxresdefault.jpg)](https://youtu.be/q6rXyj6iEac)
 ## 🧩 Features
 
 - Interactive matching mechanics  
